@@ -4,7 +4,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.ObjectOutputStream;
 
-import edu.chainsys.day91.collections.Emp;
+import com.chainsys.collections.Emp;
 
 public class Writeobj
 {
